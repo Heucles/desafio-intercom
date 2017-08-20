@@ -63,7 +63,7 @@ npm run static_test
 ```
 * Now hit **Enter**.
 
-*If there is anything wrong with the style of the files within the project you should receive a report of it over the console output, otherwise you should get a message informing that no issues were found.*
+*If there is anything wrong with the style of the files within the project you should receive a report of it over the console output, otherwise you will get no message.*
 
 
 ****
