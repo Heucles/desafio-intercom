@@ -128,5 +128,5 @@ Approach | Result
  **Recursion with Array.reduce** | 176,713 ops/sec ±1.12% (88 runs sampled)
  **No recursion** | 166,455 ops/sec ±1.18% (87 runs sampled)
 
-What you see above is an average of several tests took, and by those results, the conclusion was to use the first approach: **"Recursion with for..of loop structure"**.
+What you see implemented is based upon an average of several tests took, and by those results, the conclusion was to use the first approach: **"Recursion with for..of loop structure"**.
 
