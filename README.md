@@ -26,6 +26,7 @@ npm start
 ***Important Notes:*** 
 1. *The output for the execution will be printed on your console.*
 2. *You need to provide a array in a textual format, otherwise it will not work.*
+3. *The array can be provided as a parameter or after the program start.*
 
 ****
 
