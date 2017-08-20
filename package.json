@@ -1,0 +1,29 @@
+{
+  "name": "intercom-test",
+  "version": "1.0.0",
+  "description": "The technical test asked from intercom",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha **/spec/**.spec.js",
+    "coverage": "NODE_ENV=test istanbul cover node_modules/mocha/bin/_mocha **/spec/**.spec.js -- -u exports -R spec -b --recursive",
+    "static_test": "standard",
+    "static_fix": "standard --fix"
+  },
+  "author": "heucles@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^4.1.1",
+    "eslint": "^3.18.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "standard": "^9.0.2"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
+  }
+}
