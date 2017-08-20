@@ -53,7 +53,7 @@ npm run coverage
 ****
 ### Syle Guide Validation
 
-For the matter of style guide, the **[standardjs](https://standardjs.com/)** was the tool and rool set chose for this project.
+For the matter of style guide, the **[standardjs](https://standardjs.com/)** was the tool and ruleset chose for this project.
 
 #### To validate:
 
